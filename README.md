@@ -1,3 +1,5 @@
+![Czech Flutter Community](https://raw.githubusercontent.com/FlutterCzech/community/master/banner.png)
+
 # Czech & Slovak Flutter Community
 
 Our focus is to connect front-end developers and other roles interested in cross-platform app development using Flutter SDK.
@@ -5,6 +7,8 @@ Our focus is to connect front-end developers and other roles interested in cross
 Our goal is to support the communication about Flutter SDK through a series of meetups, talks, and workshops. We talk and discuss Flutter, cross-platform app development, design systems, pattern libraries, UI kits, tools, etc.
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
+
+We have the support [Discord #czech channel](https://discord.gg/N7Yshp4) for our community, feel free to join us. You can find tips on Flutter-related events, tools - but mostly - community open to help with any challenges you are solving in your journey to better collaboration.
 
 ## Resources
 
