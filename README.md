@@ -8,7 +8,7 @@ Our goal is to support the communication about Flutter SDK through a series of m
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
-We have the support [Discord #czech channel](https://discord.gg/N7Yshp4) for our community, feel free to join us. You can find tips on Flutter-related events, tools - but mostly - community open to help with any challenges you are solving in your journey to better collaboration.
+We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community, feel free to join us. You can find tips on Flutter-related events, tools - but mostly - community open to help with any challenges you are solving in your journey to better collaboration.
 
 ## Resources for newbies
 
