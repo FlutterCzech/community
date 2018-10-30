@@ -10,11 +10,19 @@ Flutter is a mobile app SDK for building high-performance, high-fidelity, apps f
 
 We have the support [Discord #czech channel](https://discord.gg/N7Yshp4) for our community, feel free to join us. You can find tips on Flutter-related events, tools - but mostly - community open to help with any challenges you are solving in your journey to better collaboration.
 
-## Resources
+## Resources for newbies
 
 ### General
 
 - [flutter.io](https://flutter.io)
+
+### Blogs
+
+- [Flutter](https://medium.com/flutter-io)
+- [Flutter Community](https://medium.com/flutter-community)
+- [Flutter Team at Google Blog](https://developers.googleblog.com/search/label/flutter)
+- [Flutter Pub](https://medium.com/flutterpub)
+- [Flutter Weekly](https://twitter.com/flutterwk)
 
 ### UI Challenges
 
@@ -30,13 +38,9 @@ We have the support [Discord #czech channel](https://discord.gg/N7Yshp4) for our
 - [Vyvíjíme mobilní aplikaci ve Flutteru](https://www.eman.cz/author/filip-smid/)
 - [Flutter.io – mobilní aplikace, znovu a lépe](https://www.zdrojak.cz/clanky/flutter-io-mobilni-aplikace-lepe/)
 
-### Blogs
+### Slides
 
-- [Flutter](https://medium.com/flutter-io)
-- [Flutter Community](https://medium.com/flutter-community)
-- [Flutter Team at Google Blog](https://developers.googleblog.com/search/label/flutter)
-- [Flutter Pub](https://medium.com/flutterpub)
-- [Flutter Weekly](https://twitter.com/flutterwk)
+- [Animations in Flutter v2.0 Devfest CZ](https://speakerdeck.com/salihgueler/animations-in-flutter-v2-dot-0-devfest-cz)
 
 ### Videos
 
