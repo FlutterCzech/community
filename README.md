@@ -16,6 +16,15 @@ We have the support [Discord #czech channel](https://discord.gg/N7Yshp4) for our
 
 - [flutter.io](https://flutter.io)
 
+### UI Challenges
+
+- [BMI Calculator](https://marcinszalek.pl/tag/bmi-calculator/)
+- [Flight Search](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)
+- [TODO App Concept](https://medium.com/@dev.n/flutter-challenge-todo-app-concept-bd36107aa291)
+- [YouTube (Picture-In-Picture)](https://proandroiddev.com/flutter-challenge-youtube-ec5ff36eca9b)
+- [UI Challenges from Matt Carroll](https://medium.com/@mattcarroll)
+- [Flutter UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges)
+
 ### Articles
 
 - [Vyvíjíme mobilní aplikaci ve Flutteru](https://www.eman.cz/author/filip-smid/)
@@ -44,7 +53,6 @@ We have the support [Discord #czech channel](https://discord.gg/N7Yshp4) for our
 ### Tutorials
 
 - [Flutter Codelabs](https://codelabs.developers.google.com/?cat=Flutter)
-- [BMI Calculator in Flutter](https://marcinszalek.pl/tag/bmi-calculator/)
 - [Flutter Tutorials](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
 
 ### Examples
@@ -63,13 +71,18 @@ We have the support [Discord #czech channel](https://discord.gg/N7Yshp4) for our
   - https://github.com/flutter/flutter/tree/master/examples/flutter_gallery
 - [Flutter Catalog](https://play.google.com/store/apps/details?id=io.github.x_wei.flutter_catalog)
 
-### Plugins
+### Important Plugins
 
 - [Google Maps for Flutter](https://github.com/flutter/plugins/tree/master/packages/google_maps_flutter)
   - [map_view](https://pub.dartlang.org/packages/map_view)
 - [WebView](https://github.com/flutter/plugins/tree/master/packages/webview_flutter)
   - https://pub.dartlang.org/flutter/packages?q=webview
 - [fluttie: Lottie for flutter](https://github.com/simolus3/fluttie)
+- [flutter_youtube](https://pub.dartlang.org/packages/flutter_youtube)
+
+### Important Widgets
+
+- [flutter_html](https://pub.dartlang.org/packages/flutter_html)
 
 ### Important Projects
 
