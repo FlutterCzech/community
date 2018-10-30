@@ -81,13 +81,13 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
   - [map_view](https://pub.dartlang.org/packages/map_view)
 - [WebView](https://github.com/flutter/plugins/tree/master/packages/webview_flutter)
   - https://pub.dartlang.org/flutter/packages?q=webview
-- [fluttie: Lottie for flutter](https://github.com/simolus3/fluttie)
-- [flutter_youtube](https://pub.dartlang.org/packages/flutter_youtube)
 - [flutter_html_view](https://pub.dartlang.org/packages/flutter_html_view)
-- [intro_views_flutter](https://pub.dartlang.org/packages/intro_views_flutter)
+- [flutter_youtube](https://pub.dartlang.org/packages/flutter_youtube)
 - [chewie](https://pub.dartlang.org/packages/chewie) - A video player with Cupertino and Material play controls.
+- [intro_views_flutter](https://pub.dartlang.org/packages/intro_views_flutter)
 - [flutter_spotlight](https://pub.dartlang.org/packages/flutter_spotlight) - Light items for tutorials.
 - [flutter_villains](https://pub.dartlang.org/packages/flutter_villains) - Page transitions with just a few lines of code.
+- [fluttie: Lottie for flutter](https://github.com/simolus3/fluttie)
 
 ### Important Projects
 
@@ -97,6 +97,7 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 ### Tools
 
 - [2Dimensions runtime for Flutter](https://www.2dimensions.com/b/223-flutter-support)
+  - https://github.com/2d-inc/Nima-Flutter
 
 ### Other Resources
 
