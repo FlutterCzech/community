@@ -83,10 +83,7 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
   - https://pub.dartlang.org/flutter/packages?q=webview
 - [fluttie: Lottie for flutter](https://github.com/simolus3/fluttie)
 - [flutter_youtube](https://pub.dartlang.org/packages/flutter_youtube)
-
-### Important Widgets
-
-- [flutter_html](https://pub.dartlang.org/packages/flutter_html)
+- [flutter_html_view](https://pub.dartlang.org/packages/flutter_html_view)
 
 ### Important Projects
 
