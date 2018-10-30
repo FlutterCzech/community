@@ -75,7 +75,7 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
   - https://github.com/flutter/flutter/tree/master/examples/flutter_gallery
 - [Flutter Catalog](https://play.google.com/store/apps/details?id=io.github.x_wei.flutter_catalog)
 
-### Important Plugins
+### Packages
 
 - [Google Maps for Flutter](https://github.com/flutter/plugins/tree/master/packages/google_maps_flutter)
   - [map_view](https://pub.dartlang.org/packages/map_view)
@@ -84,6 +84,10 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [fluttie: Lottie for flutter](https://github.com/simolus3/fluttie)
 - [flutter_youtube](https://pub.dartlang.org/packages/flutter_youtube)
 - [flutter_html_view](https://pub.dartlang.org/packages/flutter_html_view)
+- [intro_views_flutter](https://pub.dartlang.org/packages/intro_views_flutter)
+- [chewie](https://pub.dartlang.org/packages/chewie) - A video player with Cupertino and Material play controls.
+- [flutter_spotlight](https://pub.dartlang.org/packages/flutter_spotlight) - Light items for tutorials.
+- [flutter_villains](https://pub.dartlang.org/packages/flutter_villains) - Page transitions with just a few lines of code.
 
 ### Important Projects
 
