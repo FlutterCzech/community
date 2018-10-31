@@ -27,7 +27,7 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 - [Flutter](https://medium.com/flutter-io)
 - [Flutter Community](https://medium.com/flutter-community)
-- [Flutter Team at Google Blog](https://developers.googleblog.com/search/label/flutter)
+- [Flutter Team on Google Blog](https://developers.googleblog.com/search/label/flutter)
 - [Flutter Pub](https://medium.com/flutterpub)
 - [Flutter Weekly](https://twitter.com/flutterwk)
 
