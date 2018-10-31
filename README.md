@@ -12,9 +12,16 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 ## Resources for newbies
 
-### General
+### First steps
 
-- [flutter.io](https://flutter.io)
+- [Install Flutter](https://flutter.io/get-started/install/)
+  - [How to Install and Setup Flutter on Ubuntu 18.04.1 LTS](https://www.techomoro.com/how-to-install-and-setup-flutter-on-ubuntu-18-04-1-lts-bionic-beaver/)
+    - [Installing High Sierra 10.13.6 in VirtualBox 5.2.12 on Linux x86_64](https://astr0baby.wordpress.com/2018/07/15/installing-high-sierra-10-13-6-in-virtualbox-5-2-12-on-linux-x86_64/)
+    - [macOS VirtualBox VM Instructions](https://github.com/geerlingguy/macos-virtualbox-vm)
+- [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour)
+  - [dartlang.cz](https://dartlang.cz)
+- [Flutter Codelabs](https://flutter.io/codelabs/)
+- [Flutter Udacity Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 
 ### Blogs
 
@@ -37,6 +44,9 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 - [Vyvíjíme mobilní aplikaci ve Flutteru](https://www.eman.cz/author/filip-smid/)
 - [Flutter.io – mobilní aplikace, znovu a lépe](https://www.zdrojak.cz/clanky/flutter-io-mobilni-aplikace-lepe/)
+- [Using Google’s Flutter For Truly Cross-Platform Mobile Development](https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/)
+- [Flutter: Google’s take on cross platform](https://css-tricks.com/flutter-googles-take-on-cross-platform/)
+- [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 
 ### Slides
 
@@ -56,7 +66,6 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 ### Tutorials
 
-- [Flutter Codelabs](https://codelabs.developers.google.com/?cat=Flutter)
 - [Flutter Tutorials](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
 
 ### Examples
@@ -93,6 +102,7 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 - [Flutter for Web](https://github.com/Zubnix/skia-wasm-port/issues/5)
 - [Desktop Embedding for Flutter](https://github.com/google/flutter-desktop-embedding)
+- [Feather](https://feather-apps.com)
 
 ### Tools
 
