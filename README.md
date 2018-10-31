@@ -70,14 +70,14 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 - [CZ Podcast 180 - Dart a Flutter](https://soundcloud.com/czpodcast-1/cz-podcast-180-dart-a-flutter)
 
-### Examples
+### Examples & Templates
 
 - [Flutter Architecture Samples](http://fluttersamples.com)
 - [Flutter Examples](https://github.com/flutter/flutter/tree/master/examples)
 - [Flutter Examples 2](https://github.com/nisrulz/flutter-examples)
 - [Flutter Samples](https://github.com/flutter/samples)
-- [Start Flutter](https://startflutter.com)
 - [Book Finder](https://github.com/mjohnsullivan/book-finder)
+- [Start Flutter](https://startflutter.com)
 
 ### Demos on Android
 
@@ -100,17 +100,30 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [fluttie: Lottie for flutter](https://github.com/simolus3/fluttie)
 - [scoped_model](https://pub.dartlang.org/packages/scoped_model) - A Widget that passes a Reactive Model to all of it's children.
 - [flutter_stetho](https://pub.dartlang.org/packages/flutter_stetho) - A network inspector for Flutter on Android using the Chrome Dev Tools.
+- [animated_text_kit](https://pub.dartlang.org/packages/animated_text_kit) - Project which contains a collection of cool and beautiful text animations.
+- [flutter_spinkit](https://pub.dartlang.org/packages/flutter_spinkit) - A collection of loading indicators animated with flutter.
+- [shimmer](https://pub.dartlang.org/packages/shimmer) - A package provides an easy way to add shimmer effect in Flutter project.
+- [flutter_sequence_animation](https://pub.dartlang.org/packages/flutter_sequence_animation) - Composite together any animation with this robust and simple to use package.
+
+### Starter Kits
+
+- [Flutter Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter)
+
+### Tools
+
+- [FlutterIcon](http://fluttericon.com) - Flutter icon font generator
+- [2Dimensions runtime for Flutter](https://www.2dimensions.com/b/223-flutter-support)
+  - https://github.com/2d-inc/Nima-Flutter
+
+### Showcase
+
+- [It&#039;s All Widgets!](https://itsallwidgets.com) - An open list of apps built with Flutter.
 
 ### Important Projects
 
 - [Flutter for Web](https://github.com/Zubnix/skia-wasm-port/issues/5)
 - [Desktop Embedding for Flutter](https://github.com/google/flutter-desktop-embedding)
 - [Feather](https://feather-apps.com)
-
-### Tools
-
-- [2Dimensions runtime for Flutter](https://www.2dimensions.com/b/223-flutter-support)
-  - https://github.com/2d-inc/Nima-Flutter
 
 ### Other Resources
 
