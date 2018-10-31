@@ -70,11 +70,11 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 ### Examples
 
+- [Flutter Architecture Samples](http://fluttersamples.com)
 - [Flutter Examples](https://github.com/flutter/flutter/tree/master/examples)
 - [Flutter Examples 2](https://github.com/nisrulz/flutter-examples)
 - [Flutter by Example](https://flutterbyexample.com)
 - [Flutter Samples](https://github.com/flutter/samples)
-- [Flutter Architecture Samples](http://fluttersamples.com)
 - [Start Flutter](https://startflutter.com)
 - [Book Finder](https://github.com/mjohnsullivan/book-finder)
 
@@ -84,7 +84,7 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
   - https://github.com/flutter/flutter/tree/master/examples/flutter_gallery
 - [Flutter Catalog](https://play.google.com/store/apps/details?id=io.github.x_wei.flutter_catalog)
 
-### Packages
+### Interesting Packages
 
 - [Google Maps for Flutter](https://github.com/flutter/plugins/tree/master/packages/google_maps_flutter)
   - [map_view](https://pub.dartlang.org/packages/map_view)
