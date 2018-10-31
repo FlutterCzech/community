@@ -94,9 +94,11 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [flutter_youtube](https://pub.dartlang.org/packages/flutter_youtube)
 - [chewie](https://pub.dartlang.org/packages/chewie) - A video player with Cupertino and Material play controls.
 - [intro_views_flutter](https://pub.dartlang.org/packages/intro_views_flutter)
-- [flutter_spotlight](https://pub.dartlang.org/packages/flutter_spotlight) - Light items for tutorials.
+- [flutter_spotlight](https://pub.dartlang.org/packages/flutter_spotlight) - Spotlight lights items for tutorials.
 - [flutter_villains](https://pub.dartlang.org/packages/flutter_villains) - Page transitions with just a few lines of code.
 - [fluttie: Lottie for flutter](https://github.com/simolus3/fluttie)
+- [scoped_model](https://pub.dartlang.org/packages/scoped_model) - A Widget that passes a Reactive Model to all of it's children.
+- [flutter_stetho](https://pub.dartlang.org/packages/flutter_stetho) - A network inspector for Flutter on Android using the Chrome Dev Tools.
 
 ### Important Projects
 
