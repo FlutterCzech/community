@@ -40,6 +40,11 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [UI Challenges from Matt Carroll](https://medium.com/@mattcarroll)
 - [Flutter UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges)
 
+### Tutorials
+
+- [Flutter Tutorials](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
+- [Flutter by Example](https://flutterbyexample.com)
+
 ### Articles
 
 - CZ [Vyvíjíme mobilní aplikaci ve Flutteru](https://www.eman.cz/author/filip-smid/)
@@ -64,16 +69,11 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 - [CZ Podcast 180 - Dart a Flutter](https://soundcloud.com/czpodcast-1/cz-podcast-180-dart-a-flutter)
 
-### Tutorials
-
-- [Flutter Tutorials](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
-
 ### Examples
 
 - [Flutter Architecture Samples](http://fluttersamples.com)
 - [Flutter Examples](https://github.com/flutter/flutter/tree/master/examples)
 - [Flutter Examples 2](https://github.com/nisrulz/flutter-examples)
-- [Flutter by Example](https://flutterbyexample.com)
 - [Flutter Samples](https://github.com/flutter/samples)
 - [Start Flutter](https://startflutter.com)
 - [Book Finder](https://github.com/mjohnsullivan/book-finder)
