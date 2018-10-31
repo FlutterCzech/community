@@ -57,8 +57,8 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [Flutter.io - multiplatformní vývoj mobilních aplikací](https://slideslive.com/38908543/flutterio-multiplatformni-vyvoj-mobilnich-aplikaci)
 - [Tomáš Zvěřina: Dart pro Javisty](https://www.youtube.com/watch?v=y4M1p13w5wI)
 - [Flutter by Google](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr)
-- [Flutter in Action - GDG DevFest Bangalore 2018](https://www.youtube.com/watch?v=4LNMsYg76vg)
 - [Flutter @ Google I/O 2018](https://www.youtube.com/playlist?list=PL0o58xSX-Jvi6zBDe7SW4W6h5hauQ-xxF)
+- [Flutter Playlist](https://www.youtube.com/playlist?list=PLzxw53S4rq9de8H2w9Gc7Pyiu_bRgPK7p)
 
 ### Podcasts
 
@@ -71,12 +71,12 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 ### Examples
 
 - [Flutter Examples](https://github.com/flutter/flutter/tree/master/examples)
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples)
+- [Flutter Examples 2](https://github.com/nisrulz/flutter-examples)
 - [Flutter by Example](https://flutterbyexample.com)
 - [Flutter Samples](https://github.com/flutter/samples)
 - [Flutter Architecture Samples](http://fluttersamples.com)
-- [Book Finder](https://github.com/mjohnsullivan/book-finder)
 - [Start Flutter](https://startflutter.com)
+- [Book Finder](https://github.com/mjohnsullivan/book-finder)
 
 ### Demos on Android
 
