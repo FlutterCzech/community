@@ -42,7 +42,8 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 ### Tutorials
 
-- [Flutter Tutorials](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
+- [Flutter Tutorials](https://flutter.io/tutorials/)
+- [Flutter Tutorials on YouTube](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
 - [Flutter by Example](https://flutterbyexample.com)
 
 ### Articles
