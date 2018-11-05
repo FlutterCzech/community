@@ -104,6 +104,8 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [flutter_spinkit](https://pub.dartlang.org/packages/flutter_spinkit) - A collection of loading indicators animated with flutter.
 - [shimmer](https://pub.dartlang.org/packages/shimmer) - A package provides an easy way to add shimmer effect in Flutter project.
 - [flutter_sequence_animation](https://pub.dartlang.org/packages/flutter_sequence_animation) - Composite together any animation with this robust and simple to use package.
+- [flutter_launcher_icons](https://pub.dartlang.org/packages/flutter_launcher_icons) - A package which simplifies the task of updating your Flutter app's launcher icon.
+- [flutter_sidekick](https://pub.dartlang.org/packages/flutter_sidekick) - Widgets for creating Hero-like animations between two widgets within the same screen.
 
 ### Starter Kits
 
