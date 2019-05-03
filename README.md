@@ -121,11 +121,16 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 - [It&#039;s All Widgets!](https://itsallwidgets.com) - An open list of apps built with Flutter.
 
-### Important Projects
+### Flutter for Desktop
 
-- [Flutter for Web](https://github.com/Zubnix/skia-wasm-port/issues/5)
+- [Desktop Shells](https://github.com/flutter/flutter/wiki/Desktop-shells)
 - [Desktop Embedding for Flutter](https://github.com/google/flutter-desktop-embedding)
 - [Feather](https://feather-apps.com)
+
+### Flutter for Web
+
+- [Hummingbird: Building Flutter for the Web](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
+- [Flutter for Web](https://github.com/Zubnix/skia-wasm-port/issues/5)
 
 ### Other Resources
 
