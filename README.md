@@ -23,6 +23,10 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [Flutter Codelabs](https://flutter.io/codelabs/)
 - [Flutter Udacity Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 
+### Events
+
+- [Flutter Hackathon](https://flutterhackathon.com)
+
 ### Blogs
 
 - [Flutter](https://medium.com/flutter-io)
@@ -53,6 +57,8 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [Using Google’s Flutter For Truly Cross-Platform Mobile Development](https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/)
 - [Flutter: Google’s take on cross platform](https://css-tricks.com/flutter-googles-take-on-cross-platform/)
 - [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
+- [Using Flutter Themes for Cross-platform Landing Page (Web, Android, iOS)](https://medium.com/flutter-community/using-flutter-themes-for-cross-platform-landing-page-web-android-ios-a6714c7aca99)
+- [Android Dark Theme in Flutter](https://medium.com/flutter/android-dark-theme-in-flutter-9c8070b8b127)
 
 ### Slides
 
@@ -78,6 +84,7 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [Flutter Samples](https://github.com/flutter/samples)
 - [Book Finder](https://github.com/mjohnsullivan/book-finder)
 - [Start Flutter](https://startflutter.com)
+- [Codecanyon Templates](https://codecanyon.net/tags/flutter)
 
 ### Demos on Android
 
@@ -106,6 +113,8 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [flutter_sequence_animation](https://pub.dartlang.org/packages/flutter_sequence_animation) - Composite together any animation with this robust and simple to use package.
 - [flutter_launcher_icons](https://pub.dartlang.org/packages/flutter_launcher_icons) - A package which simplifies the task of updating your Flutter app's launcher icon.
 - [flutter_sidekick](https://pub.dartlang.org/packages/flutter_sidekick) - Widgets for creating Hero-like animations between two widgets within the same screen.
+- [tweener](https://github.com/flutterkit/tweener) - Simple and lightweight flutter animation tool.
+- [atlas](https://github.com/bmw-tech/atlas) - An extensible map abstraction for Flutter with support for multiple map providers.
 
 ### Starter Kits
 
@@ -116,6 +125,8 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 - [FlutterIcon](http://fluttericon.com) - Flutter icon font generator
 - [2Dimensions runtime for Flutter](https://www.2dimensions.com/b/223-flutter-support)
   - https://github.com/2d-inc/Nima-Flutter
+- [Sketch to Flutter. Automatically.](https://blog.prototypr.io/sketch-to-flutter-automatically-cf693ea1c892)
+- [How to use fastlane with Codemagic](https://blog.codemagic.io/using-fastlane-with-codemagic/)
 
 ### Showcase
 
@@ -131,10 +142,25 @@ We have the support [Discord chat](https://discord.gg/JZg7T7C) for our community
 
 - [Hummingbird: Building Flutter for the Web](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
 - [Flutter for Web](https://github.com/Zubnix/skia-wasm-port/issues/5)
+- [CanvasKit/Skia Backend](https://github.com/flutter/flutter_web/blob/master/docs/canvaskit.md)
+  - [canvaskit-wasm](https://www.npmjs.com/package/canvaskit-wasm) - A WASM version of Skia's Canvas API.
+- [Flutter for web early adopter program now open](https://medium.com/flutter/flutter-for-web-early-adopter-program-now-open-9f1fb146e4c4)
+
+#### Articles
+
+- [Flutter for the web](https://www.didierboelens.com/2019/05/flutter-for-the-web/)
+- [Codemagic welcomes Flutter for web](https://blog.codemagic.io/codemagic-welcomes-flutter-for-web/)
+- [Building a Signup page with Flutter Web](https://medium.com/@jideguru/building-a-signup-page-ui-with-flutter-web-hummingbird-b9fa80e9fdb7)
+
+### Firebase
+
+- [Firebase ML Kit in Flutter — Part 1](https://medium.com/flutterdevs/firebase-ml-kit-in-flutter-part-1-680821924161)
+- [Custom Image Classifier](https://github.com/firebase/mlkit-custom-image-classifier)
 
 ### Other Resources
 
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
+- [Flutter Awesome](https://flutterawesome.com)
 
 ### Fun
 
